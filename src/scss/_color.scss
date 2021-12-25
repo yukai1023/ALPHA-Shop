@@ -1,0 +1,55 @@
+:root {
+  --bg-color: #ffffff;
+  --white: #ffffff;
+  --font-color: #2a2a2a;
+  --black: #0a0a0a;
+  --hamburger-color: #2a2a2a;
+  --circle-color: #ffffff;
+  --circle-font: #afb1bd;
+  --circle-border: #afb1bd;
+  --circle-check-color: #2a2a2a;
+  --circle-check-font: #ffffff;
+  --line-color: #f0f0f5;
+  --line-check-color: #000000;
+  --input-light-gray: #a7aaaf;
+  --input-dark-gray: #4a4a4a;
+  --check-blue: #3c88fd;
+  --form-font: #808080;
+  --form-input: #ffffff;
+  --btn-color: #f67599;
+  --deliver-sm-font: #2a2a2a;
+  --right-content-background: #ffffff;
+  --footer-background: #f3f3f3;
+  --logo: url("../images/logo@2x.png");
+  --icon-search: url("../images/icon-search@2x.png");
+  --icon-shop: url("../images/icon-shop@2x.png");
+  --icon-dark-mode: url("../images/icon-light@2x.png");
+}
+
+[data-theme="dark"] {
+  --bg-color: #0a0a0a;
+  --white: #ffffff;
+  --font-color: #ffffff;
+  --black: #0a0a0a;
+  --hamburger-color: #cccaca;
+  --circle-color: #0a0a0a;
+  --circle-font: #afb1bd;
+  --circle-border: #afb1bd;
+  --circle-check-color: #2a2a2a;
+  --circle-check-font: #ffffff;
+  --line-color: #5f5f5f;
+  --line-check-color: #ffffff;
+  --input-light-gray: #4a4a4a;
+  --input-dark-gray: #a7aaaf;
+  --check-blue: #3c88fd;
+  --form-font: #808080;
+  --form-input: #333333;
+  --btn-color: #f67599;
+  --deliver-sm-font: #808080;
+  --right-content-background: #3f3f3f96;
+  --footer-background: #333333;
+  --logo: url("../images/logo-dark@2x.png");
+  --icon-search: url("../images/icon-search-dark@2x.png");
+  --icon-shop: url("../images/icon-shop-dark@2x.png");
+  --icon-dark-mode: url("../images/icon-dark@2x.png");
+}

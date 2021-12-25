@@ -1,0 +1,10 @@
+@mixin getStepNums($num) {
+  @for $i from 1 through $num {
+    &:nth-child(#{$i}) .stepper-container-circle::after {
+      position: absolute;
+      left:11px;
+      top:2px;
+      content: "#{$i}";
+    }
+  }
+}
