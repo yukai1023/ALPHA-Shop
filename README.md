@@ -3,7 +3,9 @@
 -
 ![image](https://github.com/yukai1023/ALPHA-Shop/blob/main/images/web-dark.png)
 -
-![image](https://github.com/yukai1023/ALPHA-Shop/blob/main/images/phone-light.png)![image](https://github.com/yukai1023/ALPHA-Shop/blob/main/images/phone-dark.png)
+![image](https://github.com/yukai1023/ALPHA-Shop/blob/main/images/phone-light.png)
+-
+![image](https://github.com/yukai1023/ALPHA-Shop/blob/main/images/phone-dark.png)
 
 # Features
 * Users can click the icon to switch to the dark mode.
