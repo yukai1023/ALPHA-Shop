@@ -1,11 +1,11 @@
 # ALPHA-Shop
+## ※專案介紹(Project Introduction)
+此專案為前後端合作專案，建構相仿 [Twitter](https://twitter.com) 的頁面與功能。
 ![image](https://github.com/yukai1023/ALPHA-Shop/blob/main/images/web-light.png)
 -
 ![image](https://github.com/yukai1023/ALPHA-Shop/blob/main/images/web-dark.png)
 -
-![image](https://github.com/yukai1023/ALPHA-Shop/blob/main/images/phone-light.png)
--
-![image](https://github.com/yukai1023/ALPHA-Shop/blob/main/images/phone-dark.png)
+![image](https://github.com/yukai1023/ALPHA-Shop/blob/main/images/phone-light.png)![image](https://github.com/yukai1023/ALPHA-Shop/blob/main/images/phone-dark.png)
 
 # Features
 * Users can click the icon to switch to the dark mode.
