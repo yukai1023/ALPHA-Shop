@@ -1,19 +1,21 @@
 # ALPHA-Shop
 ## ※專案介紹(Project Introduction)
-此專案為前後端合作專案，建構相仿 [Twitter](https://twitter.com) 的頁面與功能。
+打造電商購物車頁面，RWD(手機板、網頁版)。
 ![image](https://github.com/yukai1023/ALPHA-Shop/blob/main/images/web-light.png)
 -
 ![image](https://github.com/yukai1023/ALPHA-Shop/blob/main/images/web-dark.png)
 -
-![image](https://github.com/yukai1023/ALPHA-Shop/blob/main/images/phone-light.png)![image](https://github.com/yukai1023/ALPHA-Shop/blob/main/images/phone-dark.png)
+![image](https://github.com/yukai1023/ALPHA-Shop/blob/main/images/phone-light.png)
+-
+![image](https://github.com/yukai1023/ALPHA-Shop/blob/main/images/phone-dark.png)
 
-# Features
+## ※功能介紹(Function Introduction)
 * Users can click the icon to switch to the dark mode.
 * Users can change the step by clicking 'next-step' or 'back-step' buttons.
 * Users can change units of products in the shopping-cart and change shipping fee in the form. 
 * Responsive web design.
 
-# Installation
+## ※安裝專案(Install Project)
 
 ### Step 1 - Open terminal and clone to local computer
     git clone 
