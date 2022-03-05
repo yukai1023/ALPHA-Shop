@@ -1,6 +1,6 @@
 # ALPHA-Shop
 ## ※專案介紹(Project Introduction)
-打造電商購物車頁面，RWD(手機板、網頁版)。
+#### 打造電商購物車頁面，RWD(手機板、網頁版)。
 ![image](https://github.com/yukai1023/ALPHA-Shop/blob/main/images/web-light.png)
 -
 ![image](https://github.com/yukai1023/ALPHA-Shop/blob/main/images/web-dark.png)
